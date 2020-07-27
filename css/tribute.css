@@ -1,0 +1,45 @@
+img {
+	max-width: 100%;
+	height: auto;
+}
+#img-div {
+	text-align: center;
+}
+figure {
+	margin: auto;
+}
+figcaption {
+	font-size: small;
+	font-family: monospace;
+}
+#title {
+	text-align: center;
+	padding: 0.1em;
+	margin: auto;
+}
+#main {
+	background: #eee;
+	padding: 1em;
+	line-height: 1.5;
+	text-align: left;
+	font-size: large;
+}
+footer {
+	background-color: rgba(48, 45, 45, 0.842);
+	text-align: center;
+	color: white;
+	padding: 0.5em;
+	margin: auto;
+}
+a:link {
+	color: rgb(170, 76, 76);
+}
+a:visited {
+	color: gainsboro;
+}
+a:hover {
+	color: rgb(255, 72, 0);
+}
+a:active {
+	color: rgba(255, 153, 0, 0.911);
+}
